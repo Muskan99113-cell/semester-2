@@ -2,9 +2,9 @@
  # *1) Write a program to compute the sum of the first n terms of the following series:*
  # *□ =1− 1/2^2+1/3^3−1/4^4+1/5^5− . . ..The number of terms n is to be taken from the user through the command line. If the command line argument is not found then prompt the user to enter the value of n.*
 
-![Screenshot 2025-03-15 232657](https://github.com/user-attachments/assets/c6902719-6ec5-43e6-939e-bfb30679910a)
-![Screenshot 2025-03-15 232812](https://github.com/user-attachments/assets/a568ca45-5a47-42c0-b727-6e6970f1be33)
-![Screenshot 2025-03-15 232854](https://github.com/user-attachments/assets/4770975e-29bd-45c8-a474-43f20325401b)
+![image](https://github.com/user-attachments/assets/5c3d7bda-0513-4dc0-ad9e-61121d76497f)
+![image](https://github.com/user-attachments/assets/89ce0d14-eb0e-4498-a431-8516a42058a4)
+![image](https://github.com/user-attachments/assets/96db73d8-70dc-4d1f-9f45-edb08a3ee485)
 
 # *2) Write a program to remove the duplicates from an array*!
 
